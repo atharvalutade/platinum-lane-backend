@@ -32,6 +32,12 @@ Business Information:
 - Founder: Pravin Lutade
 - Website Developer: Atharva Lutade
 
+Contact Information:
+Phone: +91 93702 88853
+Email: pravinrlutade@gmail.com
+Website: https://platinumlane.in.net
+
+
 Courses:
 - Confidence Plus Course: ₹2,500
 - Two Wheeler Mastery Course: ₹3,500
